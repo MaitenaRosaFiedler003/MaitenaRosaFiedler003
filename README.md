@@ -18,7 +18,7 @@ Desarrolladora de software orientada al desarrollo multiplataforma, arquitectura
 *Desarrolladora Salesforce Core*
 
 **Universidad de Jaén**  
-*Ingeniería Informática Rama de Ingeniería del Software*
+*Ingeniería Informática Rama de Ingeniería del Software* (2023-Actualidad)
 
 **CES Cristo Rey**  
 *Técnica Superior en Desarrollo de Aplicaciones Multiplataforma* (2021 — 2023)
